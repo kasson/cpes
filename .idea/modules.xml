@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cpes/cpes.iml" filepath="$PROJECT_DIR$/cpes/cpes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpes/cpes.domain/cpes.domain.iml" filepath="$PROJECT_DIR$/cpes/cpes.domain/cpes.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cpes/cpes.start/cpes.start.iml" filepath="$PROJECT_DIR$/cpes/cpes.start/cpes.start.iml" />
+    </modules>
+  </component>
+</project>
